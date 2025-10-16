@@ -150,5 +150,5 @@ This repository is configured with a GitHub Actions workflow defined in `.github
 
 
 ## Author
-Name: Rajat Pednekar
-Module: Assignment No. 7
+-- Name: Rajat Pednekar
+-- Module: Assignment No. 7
