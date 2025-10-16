@@ -1,6 +1,6 @@
 # QR Code Generator Application
 
-[![Build and Push Docker Image](https://github.com/[YOUR_GITHUB_USERNAME]/qr-code-generator-app/actions/workflows/docker-build.yml/badge.svg)](https://github.com/[YOUR_GITHUB_USERNAME]/qr-code-generator-app/actions)
+[![Build and Push Docker Image](https://github.com/Rajat-njit/qr-code-generator/actions/workflows/main.yml/badge.svg)](https://github.com/Rajat-njit/qr-code-generator/actions/workflows/main.yml)
 
 A simple yet powerful Python application that generates QR codes from URLs. This project is fully containerized using Docker, allowing for easy, consistent deployment and execution in any environment.
 
