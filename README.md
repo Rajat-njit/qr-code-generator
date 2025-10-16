@@ -147,3 +147,8 @@ This repository is configured with a GitHub Actions workflow defined in `.github
 2.  Log in to Docker Hub using secure secrets.
 3.  Build the Docker image.
 4.  Push the newly built image to Docker Hub, tagged as `latest`.
+
+
+## Author
+Name: Rajat Pednekar
+Module: Assignment No. 7
